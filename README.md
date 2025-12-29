@@ -6,7 +6,7 @@ providers cost upward of 165 million dollars. The difference in cost is
 because Space X can reuse the first stage. This information would be useful
 for a competitor company to bid against Space X for a rocket launch.
 
-## Problems you want to solve
+## Problems we want to solve
 Knowing how much a launch is going to cause in advance, so a company
 can outbid competitors, and whether the first stage can be reused.
 
