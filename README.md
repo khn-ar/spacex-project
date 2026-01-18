@@ -1,4 +1,4 @@
-# spacex-project
+# Spacex Prediction Models Project
 
 ## Background:
 Space X's Falcon 9 rocket launches cost 62 million dollars. While other
