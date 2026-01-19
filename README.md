@@ -7,7 +7,7 @@ because Space X can reuse the first stage. This information would be useful
 for a competitor company to bid against Space X for a rocket launch.
 
 ## Problems we want to solve
-Knowing how much a launch is going to cause in advance, so a company
+Knowing how much a launch is going to cost in advance, so a company
 can outbid competitors, and whether the first stage can be reused.
 
 ## Summary of methodologies
